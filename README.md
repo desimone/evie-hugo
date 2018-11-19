@@ -14,5 +14,4 @@ A hugo theme based on the [Evie theme by undraw](https://evie.undraw.co/).
 
 ## License
 
-This theme is released under the MIT License. See LICENSE.
-LICENSE](https://github.com/desimone/evie-hugo/blob/master/LICENSE.md).
+This theme is released under the MIT License. See [LICENSE](https://github.com/desimone/evie-hugo/blob/master/LICENSE.md).
