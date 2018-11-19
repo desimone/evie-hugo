@@ -1,0 +1,18 @@
+baseURL: "http://example.org/"
+languageCode: en-us
+title: Evie hugo
+theme: evie
+permalinks:
+  post: "/post/:year/:month/:day/:slug/"
+  note: "/note/:year/:month/:day/:slug/"
+params:
+  footer:
+    firstcolumn:
+      - Hugo theme by [Bobby DeSimone](https://www.bdd.io).
+      - "[Evie](https://github.com/anges244/evie) by Katerina Limpitsouni & Aggelos Gesoulis"
+    secondcolumn:
+      - "[MIT Licensed](https://github.com/desimone/evie-hugo/blob/master/LICENSE.md)"
+    thirdcolumn:
+      - "[Github](https://github.com/desimone/evie-hugo)"
+      - "[Hugo](https://gohugo.io/)"
+      - "[Twitter](https://twitter.com/bdd_io)"
