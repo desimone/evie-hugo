@@ -11,5 +11,5 @@
 	{{ $js2 := resources.Get "js/libraries/flexibility.js" }}
 	{{ $js3 := resources.Get "js/libraries/responsive-nav.js" }}
 	{{ $js := slice $js1 $js2 $js3  | resources.Concat "js/scripts.js" | minify | fingerprint }}
-	<script src="{{ $js.Permalink }}"></script>
+	<script type="text/javascript" src="{{ $js.RelPermalink }}"></script>
 </div>
