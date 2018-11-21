@@ -8,7 +8,7 @@ features = ["blog","docs","landing"]
 min_version = 0.19
 
 [author]
-  name = "Robert DeSimone"
+  name = "Bobby DeSimone"
   homepage = "https://www.bdd.io"
 
 [original]
