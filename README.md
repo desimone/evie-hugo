@@ -1,6 +1,8 @@
 # Evie-hugo
 
-A hugo theme based on the [Evie theme by undraw](https://evie.undraw.co/).
+A hugo theme based on the [Evie theme by undraw](https://evie.undraw.co/). 
+
+You can see a live demo of the theme at [https://www.beyondperimeter.com/](https://www.beyondperimeter.com/).
 
 ## Screenshots
 
